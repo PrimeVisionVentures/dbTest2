@@ -1,0 +1,21 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "Jonathan",
+            "email": "jon@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Ayden",
+            "email": "ayd@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Luke",
+            "email": "luke@gmail.com"
+        }
+        
+    ]
+}
+
